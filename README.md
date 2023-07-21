@@ -3,7 +3,7 @@
 ## Hi there ❗ 
 <span> 안녕하세요 김희선입니다. </span> 
 ### 💫 Experience
-- **Mirae IT** - Android App and Web Developer Course *(Aug 2022 - Jan 2023)*
+- **Mirae IT** - Android App and Web Developer Course *(Jan 2023 - Jyl 2023)*
 - **Major** - Information and Communication Engineering *(Mar 2018 - Jan 2022)*
 
 ### 💁‍♂️ My project
