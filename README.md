@@ -12,7 +12,7 @@
 |:--------:|:-------------------------------------------------:|
 | 자바 캐릭터 생성 프로그램   | <a href="https://github.com/KimHuiseon230/Character-java-project_repo"><img src="https://img.shields.io/badge/Link-264653?style=flat-square&logo=verizon&logoColor=white"/></a>                                 |
 | Mp3 Music player 어플  |<a href="https://github.com/KimHuiseon230/Mp3PlayerOnDBPro_repo"><img src="https://img.shields.io/badge/Link-2a9d8f?style=flat-square&logo=verizon&logoColor=white"/></a>                                |
-| 여행 다이어리 어플 떠나자   | <a href="https://github.com/KimHuiseon230/MapDiary_Kotlin_Project"><img src="https://img.shields.io/badge/Link-e9c46a?style=flat-square&logo=verizon&logoColor=white"/></a>                        |
+| 여행 다이어리 어플 떠나자   | <a href="[https://github.com/KimHuiseon230/MapDiary_Kotlin_Project](https://github.com/KimHuiseon230/MapDiary_Kotlin_Project_repo)"><img src="https://img.shields.io/badge/Link-e9c46a?style=flat-square&logo=verizon&logoColor=white"/></a>                        |
 | 향수공방 Psyche 웹사이트     |  <a href="https://github.com/KimHuiseon230/Psyche_PHP_Project"><img src="https://img.shields.io/badge/Link-f4a261?style=flat-square&logo=verizon&logoColor=white"/></a>                                      |
 | 가구 쇼핑몰 Treefare   | <a href="https://github.com/KimHuiseon230/TREEFARE_PHP_Project"><img src="https://img.shields.io/badge/Link-e76f51?style=flat-square&logo=verizon&logoColor=white"/></a> |
 | 제품 관리 Sale   | <a href="https://github.com/KimHuiseon230/Sale-Laravel-Project_repo"><img src="https://img.shields.io/badge/Link-ffb3c6?style=flat-square&logo=verizon&logoColor=white"/></a> |
